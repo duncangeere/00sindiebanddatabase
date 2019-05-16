@@ -30,7 +30,7 @@ I'm defining "indie" fairly loosely, as "musicians and bands that the NME got ex
 There are two reasons why your favourite band might not be in here. The first is that I might have decided it didn't quite fit into the scene. Coldplay, for example, are absolutely a mid-00s indie band, but they didn't really give or take influence from anyone else here. The other reason is that I might have forgotten about them. In either case you should [check if they're already in the 00s indie band database](https://airtable.com/shrtIJTzbEXDvBvQ5), and [add them if they're not there](https://airtable.com/shrURbhInIQB2TEem).
 
 ### Can I use this data in my project?
-Absolutely, yes, as long as you credit "The 00s Indie Band Database" with a link to this page: https://duncangeere.github.io/00sindiebanddatabase/.
+Absolutely, yes, as long as you credit "The 00s Indie Band Database" with a link to this page: http://www.duncangeere.com/00sindiebanddatabase/.
 
 ### I have another question!
 Email Duncan at [radio.edit@gmail.com](mailto:radio.edit@gmail.com), or log an issue here on Github.
