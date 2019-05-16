@@ -1,5 +1,7 @@
 # The 00s Indie Band Database
-This is official home of the 00s Indie Band Database, which collects information and statistics on the indie music scene of the mid-2000s. Each row represents a band, and each column represents a variable. It was originally created by [Duncan Geere](http://www.duncangeere.com) in April and May 2019, and was last updated on 16 May 2019.
+This is official home of the 00s Indie Band Database, which collects information and statistics on the indie music scene of the mid-2000s. Each row represents a band, and each column represents a variable. 
+
+It was originally created by [Duncan Geere](http://www.duncangeere.com) in April and May 2019, and was last updated on 16 May 2019.
 
 ## Variables
 * **Name**: Band name
@@ -31,4 +33,4 @@ There are two reasons why your favourite band might not be in here. The first is
 Absolutely, yes, as long as you credit "The 00s Indie Band Database" with a link to this repository.
 
 ### I have another question!
-Email me at [radio.edit@gmail.com](mailto:radio.edit@gmail.com).
+Email Duncan at [radio.edit@gmail.com](mailto:radio.edit@gmail.com), or log an issue here on Github.
