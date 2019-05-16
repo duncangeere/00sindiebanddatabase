@@ -1,3 +1,5 @@
+![](https://github.com/duncangeere/00sindiebanddatabase/blob/master/indiebanddatabase.gif?raw=true)
+
 This is the official home of the **00s Indie Band Database**, which collects information and statistics on the indie music scene of the mid-2000s. Each row represents a band, and each column represents a variable. 
 
 <p style="font-size: 200%; text-align: center;"><a href="https://raw.githubusercontent.com/duncangeere/00sindiebanddatabase/master/00sindiebanddatabase.csv">Download the Data</a> | <a href="https://github.com/duncangeere/00sindiebanddatabase/blob/master/00sindiebanddatabase.csv">Browse the Data</a></p>
