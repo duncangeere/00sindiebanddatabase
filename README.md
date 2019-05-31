@@ -21,6 +21,8 @@ The database was originally created by [Duncan Geere](http://www.duncangeere.com
 * **Loudness**: Subjective rating on a 1-5 scale where 1 represents the least cool bands and 5 represents the most cool bands.
 * **First album**: Release date of the band's first album. In a few instances, I used the first day of the month to represent albums where the precise date wasn't known.
 * **Last album**: Release date of the band's most recent album. In a few instances, I used the first day of the month to represent albums where the precise date wasn't known.
+* **New Entry**: Used to mark unreviewed entries.
+* **Any women in the band?**: Whether any past or present band members self-define as women.
 
 ## Some FAQs:
 ### How comprehensive is this? 
